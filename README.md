@@ -28,4 +28,4 @@ Before you begin to work on any of the bulk of the project please do the followi
 
 ## Practice Repo - UI/BoxModel/Flexbox
 
-We will use the included HTML markup to practice the concepts from the past two weeks.
+We will use the included HTML markup to practice the concepts from the past two weeks...
